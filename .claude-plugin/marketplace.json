@@ -1,0 +1,16 @@
+{
+  "name": "atlassian-md-clip",
+  "displayName": "Atlassian MD Clip",
+  "version": "1.0.0",
+  "description": "Clip Jira tickets and Confluence wiki pages to local markdown files",
+  "author": {
+    "name": "Eric Zhang"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhanz173/atlassian-md-clip"
+  },
+  "keywords": ["jira", "confluence", "atlassian", "markdown", "clip"],
+  "category": "productivity"
+}
